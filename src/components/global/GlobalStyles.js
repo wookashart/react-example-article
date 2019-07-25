@@ -15,6 +15,7 @@ export const GlobalStyles = createGlobalStyle`
 
     a {
         text-decoration: none;
+        color: black;
     }
 
     ul {
@@ -25,5 +26,22 @@ export const GlobalStyles = createGlobalStyle`
 
     h1, h2, h3, h4, h5, h6 {
         font-family: 'Caveat Brush', cursive;
+    }
+
+    h1 {
+
+    }
+
+    h2 {
+        font-size: 30px;
+    }
+
+    h3 {
+        font-size: 18px;
+    }
+
+    img {
+        max-width: 100%;
+        max-height: 100%;
     }
 `;
