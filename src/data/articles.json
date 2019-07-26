@@ -6,7 +6,7 @@
             "title": "Artykuł 1",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris lobortis mi vitae pretium luctus. Nunc viverra odio tortor, ut molestie ipsum sagittis id. Nam gravida tempus vehicula. Fusce commodo facilisis facilisis. Sed consectetur commodo odio et luctus. Phasellus in porta lorem. Mauris enim nisi, viverra nec sagittis eget, fermentum sit amet nisl. Fusce gravida sit amet sapien sed iaculis.",
             "category": ["cat1", "cat2"],
-            "image": "https://picsum.photos/800/600",
+            "image": "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2104&q=80",
             "author": {
                 "image": "https://picsum.photos/100/100",
                 "name": "Łukasz Krawczyk"
@@ -18,7 +18,7 @@
             "title": "Artykuł 2",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eget leo orci. Morbi tortor diam, congue blandit faucibus ut, volutpat in nulla. Phasellus accumsan turpis augue, sit amet pharetra sem ullamcorper eget. Curabitur placerat arcu quis massa blandit, sit amet interdum tortor vulputate. Donec sit amet tempor lorem. Integer in nibh facilisis, pulvinar ipsum at, pretium neque. Sed malesuada quam ac ligula bibendum auctor eu eu turpis. Quisque non bibendum massa.",
             "category": ["cat3"],
-            "image": "https://picsum.photos/800/600",
+            "image": "https://images.unsplash.com/photo-1494905998402-395d579af36f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2100&q=80",
             "author": {
                 "image": "https://picsum.photos/100/100",
                 "name": "Jan Kowalski"
@@ -30,7 +30,7 @@
             "title": "Artykuł 3",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eget leo orci. Morbi tortor diam, congue blandit faucibus ut, volutpat in nulla. Phasellus accumsan turpis augue, sit amet pharetra sem ullamcorper eget. Curabitur placerat arcu quis massa blandit, sit amet interdum tortor vulputate. Donec sit amet tempor lorem. Integer in nibh facilisis, pulvinar ipsum at, pretium neque. Sed malesuada quam ac ligula bibendum auctor eu eu turpis. Quisque non bibendum massa.",
             "category": ["cat1", "cat3"],
-            "image": "https://picsum.photos/800/600",
+            "image": "https://images.unsplash.com/photo-1563467929767-4238584e3254?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2176&q=80",
             "author": {
                 "image": "https://picsum.photos/100/100",
                 "name": "John Smith"
@@ -42,7 +42,7 @@
             "title": "Artykuł 4",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eget leo orci. Morbi tortor diam, congue blandit faucibus ut, volutpat in nulla. Phasellus accumsan turpis augue, sit amet pharetra sem ullamcorper eget. Curabitur placerat arcu quis massa blandit, sit amet interdum tortor vulputate. Donec sit amet tempor lorem. Integer in nibh facilisis, pulvinar ipsum at, pretium neque. Sed malesuada quam ac ligula bibendum auctor eu eu turpis. Quisque non bibendum massa.",
             "category": ["cat4"],
-            "image": "https://picsum.photos/800/600",
+            "image": "https://images.unsplash.com/photo-1453743327117-664e2bf4e951?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1920&q=80",
             "author": {
                 "image": "https://picsum.photos/100/100",
                 "name": "Krzysztof Nowak"
@@ -54,7 +54,7 @@
             "title": "Artykuł 5",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eget leo orci. Morbi tortor diam, congue blandit faucibus ut, volutpat in nulla. Phasellus accumsan turpis augue, sit amet pharetra sem ullamcorper eget. Curabitur placerat arcu quis massa blandit, sit amet interdum tortor vulputate. Donec sit amet tempor lorem. Integer in nibh facilisis, pulvinar ipsum at, pretium neque. Sed malesuada quam ac ligula bibendum auctor eu eu turpis. Quisque non bibendum massa.",
             "category": ["cat1", "cat2", "cat5"],
-            "image": "https://picsum.photos/800/600",
+            "image": "https://images.unsplash.com/photo-1416138645715-930585fe4ce2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2100&q=80",
             "author": {
                 "image": "https://picsum.photos/100/100",
                 "name": "Łukasz Krawczyk"

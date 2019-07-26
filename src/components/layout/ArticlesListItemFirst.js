@@ -39,7 +39,7 @@ export default ({ article }) => (
                 : false
             }
         </h3>
-        <Link to={article.slug}>
+        <Link to={article.slug ? article.slug : '#'}>
             <h2>{article.title}</h2>
         </Link>
         <Hr />

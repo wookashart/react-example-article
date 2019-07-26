@@ -1,7 +1,23 @@
 import React, { Component } from 'react';
+import styled from 'styled-components';
 import articles from '../../data/articles.json';
 import ArticlesListItemFirst from '../layout/ArticlesListItemFirst';
 import ArticlesListItem from '../layout/ArticlesListItem';
+import media from '../../styles/media';
+
+const Articles = styled.div`
+    display: flex;
+    flex-flow: column;
+
+    ${media.desktop} {
+        flex-flow: row;
+    }
+
+    > div {
+        flex: 1;
+        padding: 0 15px;
+    }
+`;
 
 class ArticlesList extends Component {
     state = {
@@ -27,12 +43,14 @@ class ArticlesList extends Component {
         const { firstArticle, articles } = this.state;
 
         return (
-            <div>
+            <Articles>
                 <ArticlesListItemFirst article={firstArticle} />
-                {articles.map(article => (
-                    <ArticlesListItem article={article} key={article.id} />
-                ))}
-            </div>
+                <div>
+                    {articles.map(article => (
+                        <ArticlesListItem article={article} key={article.id} />
+                    ))}
+                </div>
+            </Articles>
         )
     }
 }
