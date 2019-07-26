@@ -2,9 +2,14 @@ import React from 'react';
 import styled from 'styled-components';
 import { Link } from 'react-router-dom';
 import { Hr } from '../global/Hr';
+import media from '../../styles/media';
 
 const FirsItem = styled.div`
     margin: 50px 0;
+
+    ${media.desktop} {
+        margin: 0;
+    }
 
     > div {
         max-width: 600px;
