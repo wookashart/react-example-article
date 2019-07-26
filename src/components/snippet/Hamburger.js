@@ -7,6 +7,7 @@ const HamburgerWrapper = styled.div`
     transform-origin: center;
     transition: 200ms linear transform;
     margin-right: 30px;
+    cursor: pointer;
 `;
 
 const HamburgerInner = styled.div`
